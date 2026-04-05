@@ -31,10 +31,12 @@ npm start
 Сервер запустится на http://localhost:8080
 
 ### 3. Настройка и запуск frontend приложения
-bash
 cd client
+
 npm install
+
 npm run dev
+
 Приложение запустится на http://localhost:2511 и автоматически откроет страницу со списком объявлений.
 
 ### 4. Настройка AI (Ollama)
